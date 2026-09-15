@@ -1,0 +1,11 @@
+# This project uses only Python's standard library — no third-party
+# packages are required to run port_scanner.py or scanner_core.py.
+#
+# The GUI (port_scanner_gui.py) needs tkinter, which ships with most
+# Python installations. On Debian/Ubuntu/Kali-based systems, if it's
+# missing, install it via your system package manager (not pip):
+#
+#   sudo apt install python3-tk
+#
+# Nothing to install here via `pip install -r requirements.txt` —
+# this file is kept for documentation and future dependencies.
